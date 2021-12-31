@@ -27,7 +27,7 @@ module.exports = {
 
   //Lavalink
   Lavalink: {
-    id: "Main",
+    id: "Pump#3583",
     host: "lavalink.pumpdev.org",
     port: 3876, // The port that lavalink is listening to. This must be a number!
     pass: "pumpisfree",
